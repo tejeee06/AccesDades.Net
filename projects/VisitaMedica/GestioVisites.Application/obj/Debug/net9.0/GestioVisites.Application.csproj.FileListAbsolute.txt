@@ -1,0 +1,16 @@
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Application\bin\Debug\net9.0\GestioVisites.Application.deps.json
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Application\bin\Debug\net9.0\GestioVisites.Application.dll
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Application\bin\Debug\net9.0\GestioVisites.Application.pdb
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Application\bin\Debug\net9.0\GestioVisites.Domain.dll
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Application\bin\Debug\net9.0\GestioVisites.Domain.pdb
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Application\obj\Debug\net9.0\GestioVisites.Application.csproj.AssemblyReference.cache
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Application\obj\Debug\net9.0\GestioVisites.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Application\obj\Debug\net9.0\GestioVisites.Application.AssemblyInfoInputs.cache
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Application\obj\Debug\net9.0\GestioVisites.Application.AssemblyInfo.cs
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Application\obj\Debug\net9.0\GestioVisites.Application.csproj.CoreCompileInputs.cache
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Application\obj\Debug\net9.0\GestioVisites.Application.sourcelink.json
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Application\obj\Debug\net9.0\GestioVi.D17100F2.Up2Date
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Application\obj\Debug\net9.0\GestioVisites.Application.dll
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Application\obj\Debug\net9.0\refint\GestioVisites.Application.dll
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Application\obj\Debug\net9.0\GestioVisites.Application.pdb
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Application\obj\Debug\net9.0\ref\GestioVisites.Application.dll

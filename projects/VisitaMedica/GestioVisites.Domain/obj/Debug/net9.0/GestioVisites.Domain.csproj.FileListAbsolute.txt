@@ -1,0 +1,12 @@
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Domain\bin\Debug\net9.0\GestioVisites.Domain.deps.json
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Domain\bin\Debug\net9.0\GestioVisites.Domain.dll
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Domain\bin\Debug\net9.0\GestioVisites.Domain.pdb
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Domain\obj\Debug\net9.0\GestioVisites.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Domain\obj\Debug\net9.0\GestioVisites.Domain.AssemblyInfoInputs.cache
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Domain\obj\Debug\net9.0\GestioVisites.Domain.AssemblyInfo.cs
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Domain\obj\Debug\net9.0\GestioVisites.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Domain\obj\Debug\net9.0\GestioVisites.Domain.sourcelink.json
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Domain\obj\Debug\net9.0\GestioVisites.Domain.dll
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Domain\obj\Debug\net9.0\refint\GestioVisites.Domain.dll
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Domain\obj\Debug\net9.0\GestioVisites.Domain.pdb
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\VisitaMedica\GestioVisites.Domain\obj\Debug\net9.0\ref\GestioVisites.Domain.dll

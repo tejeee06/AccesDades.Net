@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "GestioVisites.Application/1.0.0": {
+        "dependencies": {
+          "GestioVisites.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GestioVisites.Application.dll": {}
+        }
+      },
+      "GestioVisites.Domain/1.0.0": {
+        "runtime": {
+          "GestioVisites.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GestioVisites.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GestioVisites.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

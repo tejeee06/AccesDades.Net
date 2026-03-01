@@ -1,0 +1,15 @@
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\ExcerciciFils\obj\Debug\net9.0\ExcerciciFils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\ExcerciciFils\obj\Debug\net9.0\ExcerciciFils.AssemblyInfoInputs.cache
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\ExcerciciFils\obj\Debug\net9.0\ExcerciciFils.AssemblyInfo.cs
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\ExcerciciFils\obj\Debug\net9.0\ExcerciciFils.csproj.CoreCompileInputs.cache
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\ExcerciciFils\obj\Debug\net9.0\ExcerciciFils.sourcelink.json
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\ExcerciciFils\bin\Debug\net9.0\ExcerciciFils.exe
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\ExcerciciFils\bin\Debug\net9.0\ExcerciciFils.deps.json
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\ExcerciciFils\bin\Debug\net9.0\ExcerciciFils.runtimeconfig.json
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\ExcerciciFils\bin\Debug\net9.0\ExcerciciFils.dll
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\ExcerciciFils\bin\Debug\net9.0\ExcerciciFils.pdb
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\ExcerciciFils\obj\Debug\net9.0\ExcerciciFils.dll
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\ExcerciciFils\obj\Debug\net9.0\refint\ExcerciciFils.dll
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\ExcerciciFils\obj\Debug\net9.0\ExcerciciFils.pdb
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\ExcerciciFils\obj\Debug\net9.0\ExcerciciFils.genruntimeconfig.cache
+C:\Users\ateje\Desktop\ReposGit\AccesDades.Net\projects\ExcerciciFils\obj\Debug\net9.0\ref\ExcerciciFils.dll
