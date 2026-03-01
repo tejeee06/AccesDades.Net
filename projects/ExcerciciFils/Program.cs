@@ -10,7 +10,6 @@ class Program
     {
         Console.WriteLine("Inici fil principal");
 
-        // Instanciamos los servicios
         ICronometre c1 = new Cronometre("c1", 5);
         ICronometre c2 = new Cronometre("c2", 10);
         ICronometre c3 = new Cronometre("c3", 15);
