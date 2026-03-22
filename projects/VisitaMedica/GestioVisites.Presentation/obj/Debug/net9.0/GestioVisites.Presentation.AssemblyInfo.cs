@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestioVisites.Presentation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c9569c83166c6c32b5598a4fd2cfd582175c5b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8968f8c52605d540ac6cc08845a71026277039ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestioVisites.Presentation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestioVisites.Presentation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
